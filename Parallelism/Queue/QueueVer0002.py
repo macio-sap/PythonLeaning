@@ -1,3 +1,5 @@
+# Python3
+# -*- coding: utf-8 -*-
 from queue import PriorityQueue
 import time
 
